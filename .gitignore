@@ -1,0 +1,52 @@
+# MATLAB gitignore
+
+# Autosave files
+*.asv
+*.m~
+
+# Compiled MEX binaries
+*.mex*
+*.mexa64
+*.mexw64
+*.mexmaci64
+
+# Simulink autosave
+*.autosave
+
+# Packaged app installers
+*.mlappinstall
+
+# MATLAB workspace
+*.mat
+
+# Code generation folders
+codegen/
+slprj/
+
+# Build artifacts
+*.p
+*.ptx
+
+# Cache files
+*.mltbx
+*.mlpkginstall
+
+# Temporary files
+~$*
+.DS_Store
+Thumbs.db
+
+# Output directories
+results/
+figures/
+*.png
+*.jpg
+*.fig
+
+# Log files
+*.log
+
+# IDE specific
+.vscode/
+.idea/
+*.sublime-*
