@@ -246,9 +246,8 @@ MIT License - feel free to use and modify for research or educational purposes.
 ## Contact
 
 For questions or collaboration:
-- Email: [your email]
-- GitHub: [@yourusername](https://github.com/yourusername)
-
+- Email: [ishangonehal@berkeley.edu]
+- GitHub: [@ishangonehal-png](https://github.com/@ishangonehal-png)
 ---
 
 **Disclaimer**: This is a research tool for computational exploration. It is NOT approved for clinical use. All dosing decisions should be made by qualified medical professionals following established clinical protocols.
